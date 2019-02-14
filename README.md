@@ -6,9 +6,9 @@ Comment cloner ce magnifique dépot en ligne localement chez vous
 ================================================================
 1) Crééz un dossier chez vous localement positionnez vous dedans et avec l'interface GIT BASH GUI ou GIT BASH (en ligne de commande)-> (recommandé pour ma part pour comprendre ce que vous faites). donc avec votre alternative favorite clonez ce dépôt https://github.com/STANDUPSROBOT/ProjetX-Lune.git (git clone https://github.com/STANDUPSROBOT/ProjetX-Lune.git).
 
-2)déplacez vous dans Dev => git branch Dev
+2) Déplacez vous dans Dev => git branch Dev
 
-3)Amusez vous (cf consignes d'ajout).
+3) Amusez vous (cf consignes d'ajout).
 
 Quelques petites consignes d'ajout au dépot:
 ==============================================
