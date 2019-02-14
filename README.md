@@ -2,9 +2,11 @@
 School project
 
 
-===========================
+Comment cloner ce magnifique dépot en ligne localement chez vous
+================================================================
+1) Crééz un dossier chez vous localement positionnez vous dedans et avec l'interface GIT BASH GUI ou GIT BASH (en ligne de commande)-> (recommandé pour ma part pour comprendre ce que vous faites). donc avec votre alternative favorite clonez ce dépôt (git clone 
 
-===========================
+
 
 
 Quelques petites consignes d'ajout au dépot:
@@ -19,4 +21,4 @@ Quand vous déposez des fichiers ou crééz des répertoires dans Dev procéder 
 2) git add . // on ajoute ce que nous on a fait localement à un fichier temporaire
 3) git commit -m "la description de ce que vous avez ajouté/fait"  // enregistrement local
 4) git push // pousse vos modification dans la branche de développement.
-==================================================================================================================
+
