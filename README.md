@@ -14,8 +14,9 @@ Comment cloner ce magnifique dépot en ligne localement chez vous
 Quelques petites consignes d'ajout au dépot:
 ================================================================================================================
 Déposer le code dans la branche Dev ou bien créez vous une branche depuis Dev => 
-git branch votrenomdebranche
-git checkout votrenomdebranche
+
+    git branch votrenomdebranche
+    git checkout votrenomdebranche
 
 Et vous pourrez vous amuser sans limites.
 
